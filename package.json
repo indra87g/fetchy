@@ -1,0 +1,11 @@
+{
+   "name": "fetchy",
+   "version": "0.1.0",
+   "scripts": {
+     "dev": "py main.py",
+     "build": "pyinstaller -D --onefile main.py"
+   },
+   "devDepedency": {
+      "pyright": "latest"
+   }
+}
