@@ -25,7 +25,7 @@ Install it using ```pip install <library_name>```
 
 ## Build from Source
 * Clone this repository
-```git clone```
+```git clone https://github.com/indra87g/fetchy.git```
 * Move to fetchy folder
 ```cd fetchy-main```
 * Install pyinstaller
